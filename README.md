@@ -1,4 +1,4 @@
-# Getting Started (on Day One)
+# Getting Started (on Day One) 2025
 
 
 Get your Mac onto the classroom wifi. How? Look around.
