@@ -92,8 +92,9 @@ xcode-select --install
 
 ### JDK 
 
-* Download BellSoft's Liberica JDK 17 FULL
+* Download BellSoft's Liberica JDK 17 FULL https://bell-sw.com/pages/downloads/#jdk-17-lts
 * BE SURE TO DOWNLOAD for Platform __macOS aarch64__
+* https://download.bell-sw.com/java/17.0.14+10/bellsoft-jdk17.0.14+10-macos-aarch64-full.dmg
 * Use the downloaded .pkg file to install the application.
 
 ### IntelliJ - Community
